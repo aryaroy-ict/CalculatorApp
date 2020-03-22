@@ -1,12 +1,15 @@
+.stylepad{
+    padding-top:20px;
+    padding-bottom:20px;
+
+}
 .myMargin{
-    margin:7px;
-    
-   
+    margin-bottom:5px;
 }
 .myMargin2{
-    margin-right:5px;
+    margin-left:10px;
 }
-
-.myMargin1{
-    margin-bottom:12px;
+.myInput{
+    margin-left:10px;
+    margin-bottom:10px;
 }
